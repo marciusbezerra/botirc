@@ -1,0 +1,8 @@
+D:\Servicos\Para o CD RW\Prog\C# .NET\BotIRC\BotIRC\obj\Debug\ResolveAssemblyReference.cache
+D:\Servicos\Para o CD RW\Prog\C# .NET\BotIRC\BotIRC\obj\Debug\BotIRC.Properties.Resources.resources
+D:\Servicos\Para o CD RW\Prog\C# .NET\BotIRC\BotIRC\obj\Debug\BotIRC.csproj.GenerateResource.Cache
+D:\Servicos\Para o CD RW\Prog\C# .NET\BotIRC\BotIRC\obj\Debug\BotIRC.Form1.resources
+D:\Servicos\Para o CD RW\Prog\C# .NET\BotIRC\BotIRC\bin\Debug\BotIRC.exe
+D:\Servicos\Para o CD RW\Prog\C# .NET\BotIRC\BotIRC\bin\Debug\BotIRC.pdb
+D:\Servicos\Para o CD RW\Prog\C# .NET\BotIRC\BotIRC\obj\Debug\BotIRC.exe
+D:\Servicos\Para o CD RW\Prog\C# .NET\BotIRC\BotIRC\obj\Debug\BotIRC.pdb
